@@ -24,6 +24,6 @@
 
 
 ## Election-Audit Summary:
-### Within this data, you can use the script to quickly and easily find voting data by county, canidate, and overall total votes without having to modify an exisiting data set. This program will be flexible to use in upcoming elections to help improve turn times on analysis. The code that was being used below 
+### Within this data, you can use the script to quickly and easily find voting data by county, canidate, and overall total votes without having to modify an exisiting data set. This program will be flexible to use in upcoming elections to help improve turn times on analysis. The code that was being used below will help include and exclude new candidates from upcoming elections. 
 
 ![](PyPoll_Challenge.png)
